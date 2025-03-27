@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <h1>Palabra "Murcielago"</h1>
+    <h2>Flores Jasso Miguel Angel</h2>
+</head>
+<body>
+    <p><strong>No. Vocales:</strong> <span id="vocales"></span></p>
+    <p><strong>No. Consonantes:</strong> <span id="consonantes"></span></p>
+    <p><strong>Idioma de la F:</strong> <span id="idioma_F"></span></p>
+
+    <script>
+       const palabra = "murciélago";
+        const vocales = "aeiouáéíóú";
+
+        document.getElementById("vocales").textContent = palabra.match(/[aeiouáéíóú]/gi)?.length || 0;
+        document.getElementById("consonantes").textContent = palabra.length - document.getElementById("vocales").textContent;
+        document.getElementById("idioma_F").textContent = palabra.replace(/[aeiouáéíóú]/gi, v => v + "f" + v);
+    </script>
+</body>
+</html>

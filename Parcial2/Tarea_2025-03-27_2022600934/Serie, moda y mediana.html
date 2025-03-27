@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <h1>Serie, Promedio, Mediana y Moda</h1>
+    <h2>Flores Jasso Miguel Angel</h2>
+</head>
+<body>
+    <p><strong>Serie:</strong> <span id="serie"></span></p>
+    <p><strong>Promedio:</strong> <span id="promedio"></span></p>
+    <p><strong>Mediana:</strong> <span id="mediana"></span></p>
+    <p><strong>Moda:</strong> <span id="moda"></span></p>
+
+    <script>
+       const serie = Array.from({ length: 200 }, (_, i) => (i + 1) * 2);
+        
+       const promedio = serie.reduce((sum, num) => sum + num, 0) / serie.length;
+
+       const mitad = serie.length / 2;
+       const mediana = (serie[mitad - 1] + serie[mitad]) / 2;
+
+       const moda = "no hay";
+       
+       document.getElementById("serie").textContent = serie.join(", ");
+       document.getElementById("promedio").textContent = promedio;
+       document.getElementById("mediana").textContent = mediana;
+       document.getElementById("moda").textContent = moda;
+    </script>
+</body>
+</html>

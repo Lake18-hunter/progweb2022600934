@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h2>Meses acompañados con su ordinal</h2>
+        <h3>Flores Jasso Miguel Angel</h3>
+        <ul id="Meses"></ul>
+        <script>
+            const meses = [
+                "Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+            const lista = document.getElementById("Meses");
+            meses.forEach((mes, index) => {
+            let ordinal;
+            let numero = index + 1;
+            if (numero === 1) ordinal = "1ero";
+            else if (numero === 2) ordinal = "2ndo";
+            else if (numero === 3) ordinal = "3ero";
+            else if (numero === 4) ordinal = "4rto";
+            else if (numero === 5) ordinal = "5nto";
+            else if (numero === 6) ordinal = "6xto";
+            else if (numero === 7) ordinal = "7imo";
+            else if (numero === 8) ordinal = "8avo";
+            else if (numero === 9) ordinal = "9eno";
+            else if (numero === 10) ordinal = "10imo";
+            else if (numero === 11) ordinal = "11avo";
+            else if (numero === 12) ordinal = "12avo";
+            else ordinal = numero + "º";
+            document.write(`${ordinal} - ${mes}<br>`);
+        });
+        </script>
+    </body>
+</html>

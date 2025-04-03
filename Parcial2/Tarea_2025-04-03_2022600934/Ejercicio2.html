@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h2>Cadenas, Números y Booleanos</h2>
+        <h3>Flores Jasso Miguel Angel</h3>
+        <script>
+            const arreglo = [18, "Aprendiendo", true, 19, "con", false, 20, "javascript", true];
+        let sumaNumeros = 0;
+        let concatenacionCadenas = "";
+        let andBooleanos = true;
+        
+        for (let elemento of arreglo) {
+            if (typeof elemento === "number") {
+                sumaNumeros += elemento;
+            } else if (typeof elemento === "string") {
+                concatenacionCadenas += elemento;
+            } else if (typeof elemento === "boolean") {
+                andBooleanos = andBooleanos && elemento;
+            }
+        }
+        document.write("<p><strong>Suma de números:</strong> " + sumaNumeros + "</p>");
+        document.write("<p><strong>Concatenación de cadenas:</strong> " + concatenacionCadenas + "</p>");
+        document.write("<p><strong>Resultado del AND booleano:</strong> " + andBooleanos + "</p>");
+        
+        </script>
+        
+    </body>
+</html>

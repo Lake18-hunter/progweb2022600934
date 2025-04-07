@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        </head>
+        <meta charset="UTF-8">
+        <body>
+        <h1>Flores Jasso Miguel Angel</h1>
+        <h2>Display</h2>
+        <table>
+            <input type="text" id="display" readonly>
+        <div class="buttons">
+            <tr>
+                <td><td><button onclick="btn_click('5')">5</button></td>
+                <td><button onclick="btn_click('6')">6</button></td>
+                <td><button onclick="btn_click('7')">7</button></td>
+                <td><button onclick="btn_click('8')">8</button></td>
+            <td><button onclick="btn_click('9')">9</button></td>
+        </tr>
+            <tr><td>
+                <td><button onclick="btn_click('0')">0</button></td>
+                <td><button onclick="btn_click('1')">1</button></td>
+                <td><button onclick="btn_click('2')">2</button></td>
+                <td><button onclick="btn_click('3')">3</button></td>
+                <td><button onclick="btn_click('4')">4</button></td>
+            
+            
+             
+            </tr>
+            <tr><td>
+            <td><button onclick="btn_click('.')">.</button></td>
+            <td><button onclick="btn_click('+')">+</button></td>
+            <td><button onclick="btn_click('-')">-</button></td>
+            <td><button onclick="btn_click('=')">=</button></td>
+            <td><button onclick="clearDisplay()" style="grid-column: span 4;">C</button>
+        </td></tr>
+          </div>
+        </table>
+          <script>
+            function btn_click(val) {
+              var display = document.getElementById("display");
+              if (val == "=") {
+                try {
+                  display.value = eval(display.value);
+                } catch {
+                  display.value = "Error";
+                }
+              } else {
+                display.value += val;
+              }
+            }
+            function clearDisplay() {
+             document.getElementById("display").value = "";
+  }
+          </script>
+        </body>
+        
+</html>

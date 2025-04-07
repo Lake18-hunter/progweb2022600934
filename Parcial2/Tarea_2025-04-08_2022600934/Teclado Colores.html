@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <style>
+        
+        .row {
+            display: flex;
+            justify-content: center;
+            margin: 10px;
+        }
+        button{
+            width: 60px;
+            height: 60px;
+            margin: 5px;
+            font-size: 20 px;
+            cursor: pointer;
+
+        }
+    </style>
+        <script>
+        document.addEventListener('keydown', function(event) {
+    switch(event.key.toLowerCase()) {
+      case 'a':
+        document.body.style.backgroundColor = 'red';
+        break;
+      case 's':
+        document.body.style.backgroundColor = 'blue';
+        break;
+      case 'd':
+        document.body.style.backgroundColor = 'green';
+        break;
+      case 'w':
+        document.body.style.backgroundColor = 'yellow';
+        break;
+      case 'z':
+        document.body.style.backgroundColor = 'purple';
+        break;
+      case 'x':
+        document.body.style.backgroundColor = 'orange';
+        break;
+    }
+  });
+    function cambiarColor(color) {
+      document.body.style.backgroundColor = color;
+    }
+        </script>
+    </script>
+  </head>
+  <body> 
+      <div class="row"><button onclick="cambiarColor('red')">W</button></div>
+      <div class="row"><button onclick="cambiarColor('blue')">A</button></div>
+      <div class="row"><button onclick="cambiarColor('green')">S</button></div>
+      <div class="row"><button onclick="cambiarColor('yellow')">D</button></div>
+      <div class="row"><button onclick="cambiarColor('purple')">Z</button></div>
+      <div class="row"><button onclick="cambiarColor('orange')">X</button></div>
+  </body>
+</html>

@@ -1,0 +1,441 @@
+{
+    "sitio": "WoowGuau",
+    "url_base": "https://www.woowguau.mx/",
+    "total_categorias": 146,
+    "total_filtros_por_categorias": 0,
+    "categorias": {
+        "categorias": [
+            {
+                "nombre": "Perros",
+                "url": "https://www.woowguau.mx/collections/perros",
+                "href": "/collections/perros",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Ropa",
+                "url": "https://www.woowguau.mx/collections/ropa-perro",
+                "href": "/collections/ropa-perro",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Accesorios",
+                "url": "https://www.woowguau.mx/collections/accesorios",
+                "href": "/collections/accesorios",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Collares",
+                "url": "https://www.woowguau.mx/collections/collares",
+                "href": "/collections/collares",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Bandanas",
+                "url": "https://www.woowguau.mx/collections/bandanas-perro",
+                "href": "/collections/bandanas-perro",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Pecheras",
+                "url": "https://www.woowguau.mx/collections/pecheras-perro",
+                "href": "/collections/pecheras-perro",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Correas",
+                "url": "https://www.woowguau.mx/collections/correas",
+                "href": "/collections/correas",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Otros",
+                "url": "https://www.woowguau.mx/collections/otros-perro",
+                "href": "/collections/otros-perro",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Juguetes",
+                "url": "https://www.woowguau.mx/collections/juguetes-perros",
+                "href": "/collections/juguetes-perros",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Mexicanos",
+                "url": "https://www.woowguau.mx/collections/juguetes-mexicanos",
+                "href": "/collections/juguetes-mexicanos",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Importados",
+                "url": "https://www.woowguau.mx/collections/juguetes-importados",
+                "href": "/collections/juguetes-importados",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Alimento",
+                "url": "https://www.woowguau.mx/collections/alimento",
+                "href": "/collections/alimento",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Alimento Húmedo Super Premium",
+                "url": "https://www.woowguau.mx/collections/alimento-humedo",
+                "href": "/collections/alimento-humedo",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Alimento Seco Super Premium",
+                "url": "https://www.woowguau.mx/collections/alimento-seco-mantenimiento",
+                "href": "/collections/alimento-seco-mantenimiento",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Alimento Natural",
+                "url": "https://www.woowguau.mx/collections/alimento-natural-para-perro",
+                "href": "/collections/alimento-natural-para-perro",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Premios",
+                "url": "https://www.woowguau.mx/collections/premios",
+                "href": "/collections/premios",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Higiene",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Shampoos",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Lociones",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Cepillos",
+                "url": null,
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Limpieza, Quita olores",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Entrenadores",
+                "url": "https://www.woowguau.mx/collections/entrenadores",
+                "href": "/collections/entrenadores",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Camas",
+                "url": "https://www.woowguau.mx/collections/camas-personalizado",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Transportadoras",
+                "url": "https://www.woowguau.mx/collections/transportadoras-perros",
+                "href": "/collections/transportadoras-perros",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Farmacia",
+                "url": "https://www.woowguau.mx/collections/farmacia-perros",
+                "href": "/collections/farmacia-perros",
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Antipulgas",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Suplemento",
+                "url": null,
+                "tipo_mascota": "perro"
+            },
+            {
+                "nombre": "Joyería Pet Lovers",
+                "url": "https://www.woowguau.mx/collections/joyeria-pet-lovers",
+                "href": "/collections/joyeria-pet-lovers",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Gatos",
+                "url": "https://www.woowguau.mx/collections/gatos",
+                "href": "/collections/gatos",
+                "tipo_mascota": "gato"
+            },
+            {
+                "nombre": "Moda para Gato",
+                "url": "https://www.woowguau.mx/collections/moda-para-gato",
+                "href": "/collections/moda-para-gato",
+                "tipo_mascota": "gato"
+            },
+            {
+                "nombre": "Arena",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Limpieza",
+                "url": "https://www.woowguau.mx/collections/limpieza-gatos",
+                "href": "/collections/limpieza-gatos",
+                "tipo_mascota": "gato"
+            },
+            {
+                "nombre": "Hill's Diet",
+                "url": "https://www.woowguau.mx/collections/hills-diet",
+                "href": "/collections/hills-diet",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Taste of the Wild",
+                "url": "https://www.woowguau.mx/collections/taste-of-the-wild-alimento-seco",
+                "href": "/collections/taste-of-the-wild-alimento-seco",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Kio Naturals",
+                "url": "https://www.woowguau.mx/collections/kio-naturals",
+                "href": "/collections/kio-naturals",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Moda",
+                "url": null,
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Productos personalizados",
+                "url": "https://www.woowguau.mx/collections/personalizados",
+                "href": "/collections/personalizados",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Placas",
+                "url": "https://www.woowguau.mx/collections/placas-personalizado",
+                "href": "/collections/placas-personalizado",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Platos",
+                "url": "https://www.woowguau.mx/collections/plato-personalizado",
+                "href": "/collections/plato-personalizado",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Obras",
+                "url": null,
+                "tipo_mascota": "general"
+            }
+        ],
+        "subcategorias": [
+            {
+                "nombre": "Ropa de Perro",
+                "url": "https://www.woowguau.mx/collections/ropa-perro-macho",
+                "href": "/collections/ropa-perro-macho",
+                "tipo_mascota": "perro",
+                "categoria_padre": "Ropa"
+            },
+            {
+                "nombre": "Ropa de Perra",
+                "url": "https://www.woowguau.mx/collections/ropa-perro-hembra",
+                "href": "/collections/ropa-perro-hembra",
+                "tipo_mascota": "perro",
+                "categoria_padre": "Ropa"
+            },
+            {
+                "nombre": "Alimento de Prescripción",
+                "url": "https://www.woowguau.mx/collections/alimento-prescripcion",
+                "href": "/collections/alimento-prescripcion",
+                "tipo_mascota": "general",
+                "categoria_padre": "Alimento"
+            },
+            {
+                "nombre": "Higiene & Limpieza",
+                "url": "https://www.woowguau.mx/collections/higiene-y-limpieza",
+                "href": "/collections/higiene-y-limpieza",
+                "tipo_mascota": "general",
+                "categoria_padre": "Higiene"
+            },
+            {
+                "nombre": "Shampoos & Acondicionadores",
+                "url": "https://www.woowguau.mx/collections/shampoos-acondicionadores",
+                "href": "/collections/shampoos-acondicionadores",
+                "tipo_mascota": "general",
+                "categoria_padre": "Shampoos"
+            },
+            {
+                "nombre": "Lociones & Pomadas",
+                "url": "https://www.woowguau.mx/collections/lociones-pomadas",
+                "href": "/collections/lociones-pomadas",
+                "tipo_mascota": "general",
+                "categoria_padre": "Lociones"
+            },
+            {
+                "nombre": "Cepillos & Cortauñas",
+                "url": "https://www.woowguau.mx/collections/cepillos-y-cortaunas-perros",
+                "href": "/collections/cepillos-y-cortaunas-perros",
+                "tipo_mascota": "perro",
+                "categoria_padre": "Cepillos"
+            },
+            {
+                "nombre": "Limpieza, Quita olores & Artículos para popo",
+                "url": "https://www.woowguau.mx/collections/limpieza-quitaolores-articulos-para-popo",
+                "href": "/collections/limpieza-quitaolores-articulos-para-popo",
+                "tipo_mascota": "general",
+                "categoria_padre": "Limpieza, Quita olores"
+            },
+            {
+                "nombre": "Camas & Mobiliario",
+                "url": "https://www.woowguau.mx/collections/camas-mobiliario",
+                "href": "/collections/camas-mobiliario",
+                "tipo_mascota": "general",
+                "categoria_padre": "Camas"
+            },
+            {
+                "nombre": "Antipulgas & Desparasitantes",
+                "url": "https://www.woowguau.mx/collections/antipulgas-desparasitantes",
+                "href": "/collections/antipulgas-desparasitantes",
+                "tipo_mascota": "general",
+                "categoria_padre": "Antipulgas"
+            },
+            {
+                "nombre": "Suplemento & Aceites",
+                "url": "https://www.woowguau.mx/collections/otros-perros",
+                "href": "/collections/otros-perros",
+                "tipo_mascota": "perro",
+                "categoria_padre": "Suplemento"
+            },
+            {
+                "nombre": "Ropa & Accesorios",
+                "url": "https://www.woowguau.mx/collections/ropa-accesorios",
+                "href": "/collections/ropa-accesorios",
+                "tipo_mascota": "general",
+                "categoria_padre": "Ropa"
+            },
+            {
+                "nombre": "Alimento de Prescripción",
+                "url": "https://www.woowguau.mx/collections/alimento-prescripcion-gatos",
+                "href": "/collections/alimento-prescripcion-gatos",
+                "tipo_mascota": "gato",
+                "categoria_padre": "Alimento"
+            },
+            {
+                "nombre": "Higiene & Limpieza",
+                "url": "https://www.woowguau.mx/collections/higiene-limpieza-gatos",
+                "href": "/collections/higiene-limpieza-gatos",
+                "tipo_mascota": "gato",
+                "categoria_padre": "Higiene"
+            },
+            {
+                "nombre": "Shampoos & Acondicionadores",
+                "url": "https://www.woowguau.mx/collections/shampoos-acondicionadores-gatos",
+                "href": "/collections/shampoos-acondicionadores-gatos",
+                "tipo_mascota": "gato",
+                "categoria_padre": "Shampoos"
+            },
+            {
+                "nombre": "Arena & Areneros",
+                "url": "https://www.woowguau.mx/collections/arenas-areneros",
+                "href": "/collections/arenas-areneros",
+                "tipo_mascota": "general",
+                "categoria_padre": "Arena"
+            },
+            {
+                "nombre": "Cepillos & Cortauñas",
+                "url": "https://www.woowguau.mx/collections/cepillos-y-cortaunas-gatos",
+                "href": "/collections/cepillos-y-cortaunas-gatos",
+                "tipo_mascota": "gato",
+                "categoria_padre": "Cepillos"
+            },
+            {
+                "nombre": "Camas & Rascadores",
+                "url": "https://www.woowguau.mx/collections/camas-rascadores",
+                "href": "/collections/camas-rascadores",
+                "tipo_mascota": "general",
+                "categoria_padre": "Camas"
+            },
+            {
+                "nombre": "Antipulgas & Desparasitantes",
+                "url": "https://www.woowguau.mx/collections/antipulgas-desparasitantes-gatos",
+                "href": "/collections/antipulgas-desparasitantes-gatos",
+                "tipo_mascota": "gato",
+                "categoria_padre": "Antipulgas"
+            },
+            {
+                "nombre": "Moda de Regateo",
+                "url": "https://www.woowguau.mx/collections/moda-de-regateo",
+                "href": "https://www.woowguau.mx/collections/moda-de-regateo",
+                "tipo_mascota": "general",
+                "categoria_padre": "Moda"
+            },
+            {
+                "nombre": "Obras de Arte",
+                "url": "https://www.woowguau.mx/collections/cuadros-personalizados",
+                "href": "/collections/cuadros-personalizados",
+                "tipo_mascota": "general",
+                "categoria_padre": "Obras"
+            }
+        ],
+        "marcas": [
+            {
+                "nombre": "Royal Canin",
+                "url": "https://www.woowguau.mx/collections/royal-canin",
+                "href": "/collections/royal-canin",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Eukanuba",
+                "url": "https://www.woowguau.mx/collections/eukanuba",
+                "href": "/collections/eukanuba",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Nupec",
+                "url": "https://www.woowguau.mx/collections/nupec",
+                "href": "/collections/nupec",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Purina Proplan",
+                "url": "https://www.woowguau.mx/collections/purina-proplan",
+                "href": "/collections/purina-proplan",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Diamond",
+                "url": "https://www.woowguau.mx/collections/diamon",
+                "href": "/collections/diamon",
+                "tipo_mascota": "general"
+            }
+        ],
+        "etiquetas": [
+            {
+                "nombre": "¡Lo Nuevo!",
+                "url": "https://www.woowguau.mx/collections/lo-nuevo",
+                "href": "https://www.woowguau.mx/collections/lo-nuevo",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "MEJORES AMIGOS SAN VALENTÍN",
+                "url": "https://www.woowguau.mx/collections/mejores-amigos-valentine-s/san-valent%c3%8dn",
+                "href": "/collections/mejores-amigos-valentine-s/SAN-VALENT%C3%8DN",
+                "tipo_mascota": "general"
+            },
+            {
+                "nombre": "Últimas piezas",
+                "url": "https://www.woowguau.mx/collections/ultimas-piezas",
+                "href": "/collections/ultimas-piezas",
+                "tipo_mascota": "general"
+            }
+        ]
+    },
+    "total_categorias_limpios": 73
+}

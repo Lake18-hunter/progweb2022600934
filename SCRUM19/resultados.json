@@ -1,0 +1,18 @@
+{
+  "sitio": "WoowGuau",
+  "url_base": "https://www.woowguau.mx/",
+  "estadisticas": {
+    "total_productos": 349,
+    "total_categorias": 54,
+    "total_relaciones": 652,
+    "total_filtros": 0,
+    "productos_con_descuento": 349,
+    "productos_con_imagen": 348
+  },
+  "archivos_generados": [
+    "productos.json",
+    "categorias.json",
+    "productos_categorias_limpio.json",
+    "filtros_categorias.json"
+  ]
+}

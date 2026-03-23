@@ -1,0 +1,2796 @@
+{
+    "productos": [
+        {
+            "nombre": "PONCHO PARA PERRO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PONCHO PARA PERRA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUDADERA GAP",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS RELAX 0.180gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR CHIAPAS",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE ELOTE MEXICANO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR CANCUN",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE AGUACATE CON JALADERA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO PERFORMANCE TODAS LAS RAZAS CON OPTIPOWER",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD PACIFIC STREAM CANINE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FOZZ PET COLLAR TELA VARIADA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BANDANA MEXICANA DISEÑOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PELOTA DE TENIS C/SQUEAKER GDE 1 PZA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO SENSITIVE DIGESTION TODAS LAS RAZAS",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BANDANA FOZZ PET",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PELOTA MANDIBULAS FUERTES",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NANKO PET POMADA REGENERADORA C B D",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HAPPY DOGGY BOLSITAS BIO CAJA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE LUCHADOR MEXICANO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SARAPE SALTILLO FORRADO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE GATO CON CUERDA PARA PERRO G",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PLATO DE ACERO BASE ANTIDERRAPANTE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI PETS SOFT CHEWS TREATS 50 MG C B D (125 GR)",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HEPATIC LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CHALECO WOOW GUAU",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PLAYERA MOSCHINO CORAZÓN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TILMATLI ROSA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TILMATLI NEGRO/GRIS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUÉTER CUBIK",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUÉTER GLAM",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAPA CUADROS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUDADERA SPIDERMAN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CHALECO VAQUERO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CHALECO DOBLE VISTA CAMISERIA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAPA JASPEADA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUDADERA STAR LUMINICENTE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SUETER NEVADO COLORES VARIOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "VESTIDO DOGFFANY",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CHAMARRA LEÑADOR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "VESTIDO VALERIA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FOZZ PET COLLAR C/ FLOR VARIADO",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR CANCUN AJUSTABLE",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR OAXACA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FOZZ PET COLLAR C/MOÑO",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR TIZATLAN",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR ARTESANAL HUICHOL",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BANDANA PIEL CANCUN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PECHERA CANCUN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PECHERA WUAUPOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PECHERA MEXIQUITO VARIOS MODELOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FOZZ PET CORREA CON COLLAR",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FOZZ PET CORREA CON COLLAR & FLOR",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CORREA ARTESANAL CANCUN DELGADA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CORREA CUENTAPENAS OAXACA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CORREA DE FAJA OAXACA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CORREA ARTESANAL PARA AUTO",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CORREA ARTESANAL CANCUN",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CUBREASIENTOS PARA AUTO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CON PELOTA DE TENIS",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FANCY PETS CILINDRO PREMIOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE SABOR POLLO, PIERNA DE POLLO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "QUADO - Premio Interactivo (VARIOS SABORES)",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CHUPON DE CAUCHO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE PELOTA PRISMA CON SONIDO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE MANCUERNA PRISMA C/SONIDO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE FEMUR SABOR TOCINO CHEW",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE VERTEBRA SABOR TOCINO CHEW",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE BOLA MED XTREME",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE HUESO C/CINTAS PLAY",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE FLECHA C/CINTAS PLAY",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE PESA C/CINTAS PLAY",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE HUESO PRISMA CH SONIDO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE DENTAL HUESO SABOR TOCINO CH",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TRENZA DOBLE TEJIDA C/JALADERA MED 32 CM",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PESA MANDIBULAS FUERTES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "VARA MANDIBULAS FUERTES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE POLLO ROSTIZADO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SIRENA CON CUERDA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CALAVERA CON CUERDA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE MUÑECA LUPITA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE TROMPO PASTOR",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CHANCLA PELUCHE",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PELOTA DURA PLAY",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KONG PANAL ROJO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND ADULT DOG LAMB MEAL & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND ALL LIFE STAGES DOG CHICKEN & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND LARGE BREED PUPPY",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND SENIOR DOG CHICKEN, EGG & OATMEAL FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND SMALL BREED ADULT DOGLAMB & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMONDSMALL BREED PUPPY CHICKEN & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA ADULT BEEF & VEGETABLES LATA 354 GR",
+            "marca": "Eukanuba",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA ADULT CHICKEN & VEGETABLES LATA 354 GR",
+            "marca": "Eukanuba",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA ADULT0 RAZA PEQUEÑA SB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA PUPPY LB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA PUPPY MB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA PUPPY SB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA SENIOR SB 2.3KG",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S K/D KIDNEY CARE LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S METABOLIC LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S URGENT CARE LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HYDROLYZED PROTEIN MODERATE CALORIE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ CORAZÓN DESHIDRATADO 500 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ HÍGADO DE RES DESHIDRATADO 150 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ HIGADO DE RES DESHIDRATADO 500 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ MIX DE TERNERA DESHIDRATADA 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ PULMÓN DESHIDRATADO 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MITZ SAZONADOR PARA CROQUETAS 80 GR",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO SENSITIVE SKIN SALMÓN LATA 13 Oz US",
+            "marca": "Proplan",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO POLLO LATA 13 Oz US",
+            "marca": "Proplan",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN CACHORRO POLLO LATA 13 Oz US",
+            "marca": "Proplan",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO SENIOR RES LATA 13 Oz US",
+            "marca": "Proplan",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA CHIHUAHUA .85gr",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA ALL DOGS ADULTO 385 gr",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA ALL DOGS PUPPY .385 gr",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO RAZA MEDIANA/GRANDE SENSITIVE SKIN CON OPTIDERM",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO RAZA PEQUEÑA DELICATE STRUCTURE CON OPTIFORTIS",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO RAZA PEQUEÑA SENSITIVE SKIN CON OPTIDERM",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN ADULTO REDUCED CALORIE OPTIFIT TODAS LAS RAZAS",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN CACHORRO SENSITIVE SKIN TODAS LAS RAZAS CON OPTIDERM",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA GRANDE OPTIHEALTH",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA GRANDE OPTISTART",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA MED/GDE ACTIVE MIND OPTIAGE",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA MEDIANA OPTIHEALTH",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA MEDIANA OPTISTART",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA PEQUEÑA ACTIVE MIND OPTIAGE",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA PEQUEÑA OPTIHEALTH",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN RAZA PEQUEÑA OPTISTART",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN BABY DOG MILK",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN BULLDOG PUPPY",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN CHIHUAHUA ADULTO",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN CHIHUAHUA PUPPY",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN DACHSHUND",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN FRENCH BULLDOG",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD SIERRA MOUNTAIN CANINE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD PACIFIC STREAM PUPPY",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD HIGT PRAIRIE CANINE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD HIGH PRAIRIE PUPPY",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI C B D DOG TREATS PUMPKIN SPICE & CINNAMON JOINT",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI C B D DOG TREATS IMMUNE SUPPORT",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI C B D DOG TREATS CALMING SUPPORT",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND OREJA DE CERDO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND CABEZA DE FEMUR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS TRAINNING 0.180gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS SMART 0.180gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS JOINT 0.180 gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS DIGESTIVE 0.180gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC TREATS DENTAL CARE 0.180gr",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE WOLF SALMÓN DOG 150 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LiTTLE WOLF PUERCO DOG 150 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE WOLF PATO DOG 150 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND FEMUR DE CERDO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND TUBO DE FEMUR 7\"",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND TUBO DE FEMUR 1/2",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND ROTULA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND MONSTER",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BLAUNHUND COSTILLA 6\"",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUEGO CEPILLO C/PASTA DE DIENTES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO TE VERDE",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRE JABON AVENA Y MIEL",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRE BÁLSAMO PATITAS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO REFRESCANTE DE ALIENTO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TAPETE ENTRENADOR SOFT PAD 14 PZ",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO PUPPY",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO MIEL",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO SHAMPOO HIPOLERGÉNICO",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO AVENA",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO ANTIPULGAS",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFTLOCION VAINILLA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCION PUPPY PERRITO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCION PUPPY PERRITA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCION LAVANDA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCION FRUTOS TROPICALES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCION FRUTOS ROJOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT JABON NATURAL DE MATCHA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRE JABÓN LIMA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT JABON LAVANDA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT JABON CURCUMA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRE JABON COCO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO DESINFECTANTE ROCÍO FRESCO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO DESINFECTANTE NARANJA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT SHAMPOO AVENA",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DOGIFT LOCIÓN LAVANDA ANSIEDAD",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FANCY PETS CORTAUÑAS PERRO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FANCY PETS PEINE DE METAL",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PEINE DE METAL P/MUDA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FANCY PETS CARDA PARA PELO LARGO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "GUILLOTINA CORTAUÑAS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Guante Quitapelo",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "RECOGEDOR DE HECES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO ATRAYENTE 500ML",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TORNADO REPELENTE 500ML",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COMEDERO MADERA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA CUBO MEXICANA",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA PAN CON HUEVO",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA SAFARI ESTAMPADA",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA TAPETE CON RESPALDO",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA TAPETE PANDA",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA CALAVERA CIRCULAR",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA DONA HOMERO",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA SAFARI DELUXE",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TEEPEE MEXICANO GRANDE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA COREX GDE 75X62X22",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA ANIMAL PRINT BEIGE",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CAMA FANTASY COMANDO GDE 75X62X22",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COBIJA SALTILLO",
+            "marca": null,
+            "categoria": "Camas",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "BOLSA TRANSPORTADORA SARAPE SALTILLO/ JERGA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TRANSPORTADORA ALPINISTA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CARRIOLA DESMONTABLE PARA MASCOTA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TRANSPORTADORA ALPINISTA SALTILLO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Transportadora Alpinista estampado Frida te quiero mucho",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Transportadora Alpinista estampado Frida con aves",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Transportadora Alpinista lucha libre mexicana",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Transportadora Alpinista estampado Tenango",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MOCHILA TRANSPORTADORA CAPSULA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TRANSPORTADORA MICKY XGRANDE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI GOMITAS ENERGETICAS DAYTIME 600 MG C B D",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI SOFTGELS NIGHT MELATONIN 750 MG C B D",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI PET SPRAY 500 MG C B D",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NEXGAR SPECTRA DOG",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NANKO PET ACEITE C B D CACHORRO VERDE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NANKO PET ACEITE C B D ADULTO AMARILLO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PET´N PLAY PIPETA ANTIPULGAS NO 3",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PET´N PLAY PIPETA ANTIPULGAS NO 4",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PET´N PLAY PIPETA ANTIPULGAS NO 1",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PET¨´PLAY PIPETA ANTIPULGAS NO.5",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PET¨´N PLAY COLLAR ANTIPULGAS UNITALLA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HARTZ COLLAR ANTIPULGAS PERRO G PZA",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN SELECTIVE SAVOR SENSATION",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE LION POLLO 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE LION BACALAO 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN KITTEN",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ARENA CAT´S BEST",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRÉ SHAMPOO AVENA Y MIEL",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE LION ATUN 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MY LITTLE LION PATO 75 GR",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "VARA MEXICANA NYUCAT",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COMEDERO PARA GATO DE MADERA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CATNIP PARA GATO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SMOKING",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA RECOVERY GATO Y PERRO",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PECHERA MILES GATOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLLAR GATO BALAM",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA ADULT INSTINCTIVE GATO",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRÉ SHAMPOO ROSAS",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRÉ SHAMPOO LIMA",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "LE PERRÉ SHAMPOO COCO",
+            "marca": null,
+            "categoria": "Higiene",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TRANSPORTADORA ARTESANAL PAULINA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC FELINO SENIOR",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC FELINO ADULTO INDOOR",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "SARDINAS CATNIP MILES DE GATOS 3 PZA",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DINOSAURIO VINIL PARA GATO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Collar personalizado Miles Gatos",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ARENERO AG+",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CAÑA DE PESCAR CATCH",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "RATONES CATNIP MILES DE GATO 3 PZS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE GATO CON CUERDA Y CATNIP",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE RATÓN ARCOIRIS",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE ORUGA CATCH",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE RATÓN MINI CATCH",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HARTZ RATÓN FUGITIVO",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "VARA POMPON NYUCAT DIF MODELOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA ULTRA LIGHT GATO",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH CACHORRO 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH PERRO SENIOR 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH PERRO ADULTO 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH PARA GATO ESTERILIZADO 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH SABOR SALMON PARA GATO 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH SABOR POLLO PARA GATO 85 GR",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN POUCH KITTEN",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PLATO RETRACTIL SILICON CH",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PROPLAN KITTEN 3KG",
+            "marca": "Proplan",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PERSIAN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "MOTHER AND BABYCAT",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND KITTEN CHICKEN & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "DIAMOND INDOOR CAT CHICKEN & RICE FORMULA",
+            "marca": "Diamond",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD CANYON RIVER FELINE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "TASTE OF THE WILD ROCKY MOUNTAIN FELINE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA SPAYED & NEUTERED",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA INTENSE BEAUTY",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LATA KITTEN GATO",
+            "marca": "Royal Canin",
+            "categoria": "Alimento",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN PERSIAN KITTEN",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN SPAYED NEUTERED APPETITE CONTROL +7",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN SPAYED NEUTERED APPETITE CONTROL",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN INDOOR ADULT CAT",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN ADULT FIT",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC FELINO KITTEN",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ARENERO CH C/TAPA Y PUERTA ABATIBLE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ARENERO MED",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "FANCY PETS ARENA PARA GATOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PALA PARA ARENA GATO COLORES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "COLUMPIO GATO DIFERENTES MODELOS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "gato",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "KOI C B D CAT TREATS SABOR SALMÓN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN MEDIUM PUPPY",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "STARTER MOTHER AND BABY DOG´S",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN MEDIUM SENSITIVE SKIN CARES",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN MINI SENSITIVE SKIN CARE",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN MINI WEIGHT CARE",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "ROYAL CANIN LABRADOR RETRIVER",
+            "marca": "Royal Canin",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA PUPPY CHICKEN & BEEF LATA 354 GR",
+            "marca": "Eukanuba",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA SENIOR MB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA SENIOR SB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "EUKANUBA ADULT MB",
+            "marca": "Eukanuba",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC ADULTO PERRO",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO FELINO INDOOR 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO FELINO KITTEN 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO FELINO URIANRY 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO FELINO HARIBALL 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO SENIOR 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO WEIGHT CONTROL 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO DIGESTIVO 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC HÚMEDO CACHORRO 4 LATAS 100 GRS",
+            "marca": "Nupec",
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC SENSITIVE RAZA PEQUEÑA",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC SENSITIVE",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC WEIGTH CONTROL RAZA PEQUEÑA",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC WEIGTH CONTROL",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC CACHORRO FIRST CARE",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC SENIOR RAZA PEQUEÑA",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "NUPEC CACHORRO RAZA PEQUEÑA",
+            "marca": "Nupec",
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S I/D LIVER CARE ORIGINAL",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S TRAINING CHEWY CHICKEN",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S SAVOR TURKEY ENTREE ADULT 7+ FELINO LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S LIVER & CHICKEN ENTREE KITTEN FELINO LATA",
+            "marca": null,
+            "categoria": "Alimento",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S HYPOALERGENIC TREATS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S FRUITY SNACKS CRANBERRIES",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S FRUITY SNACKES APPLE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S METABOLIC",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S K/D KIDNEY CARE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S I/D DIGESTIVE CARE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S D/D SKIN FOOD SENSITIVITIES SALMON",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "HILL´S C/D URINARY CARE",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Koi – Naturals – Tintura Sublingual – Peppermint 30ml",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Koi – Naturals – Tintura Sublingual Natural 30ml",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "CHAMARRA FRANELA CUADROS",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE FREEZE BEE PELUCHE",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE SONAJA ANIMALITOS",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE SONAJA BALON",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE MANITA JALADERA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE HUESO LONETA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE FLAMENCO",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE ANIMALITOS CHILLONES",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE PELOTA CON PIOLA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE HUESO RELLENABLE",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "JUGUETE CERDO BOLA",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Placas aluminio Hueso",
+            "marca": null,
+            "categoria": "Juguetes",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Collar personalizado Miles Perros",
+            "marca": null,
+            "categoria": "Accesorios",
+            "tipo_mascota": "perro",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Placas aluminio Círculos",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "PLACAS SILVER",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Placas aluminio Corazón",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        },
+        {
+            "nombre": "Cuadros pintados a mano personalizados",
+            "marca": null,
+            "categoria": "Otros",
+            "tipo_mascota": "general",
+            "url": null,
+            "href": null
+        }
+    ]
+}

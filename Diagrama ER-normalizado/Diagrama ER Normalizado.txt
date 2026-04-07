@@ -1,0 +1,53 @@
+Diagrama ER Normalizado
+1. MARCAS
+id_marca (PK)
+nombre
+url_marca
+
+
+Nota: Una marca puede tener 0 a N productos (relación opcional).
+
+2. CATEGORIAS
+id_categoria (PK)
+nombre
+url_categoria
+id_padre (FK → Categorias.id_categoria)
+
+Relaciones:
+
+Relación recursiva 1:N:
+Una categoría puede tener muchas subcategorías.
+Una subcategoría pertenece a una sola categoría padre.
+
+3. PRODUCTOS
+sku (PK)
+nombre
+descripcion
+precio
+id_marca (FK → Marcas.id_marca)
+
+Relaciones:
+
+Cada producto pertenece a una marca.
+Una marca puede tener muchos productos (0..N).
+
+4. MULTIMEDIA
+id_multimedia (PK)
+url_recurso
+tipo
+sku (FK → Productos.sku)
+
+Relación:
+
+Un producto puede tener muchos recursos multimedia (1:N).
+Cada recurso multimedia pertenece a un solo producto.
+
+5. PRODUCTO_CATEGORIA (Tabla puente)
+sku (FK, PK → Productos.sku)
+id_categoria (FK, PK → Categorias.id_categoria)
+
+Relación:
+
+Relación N:M entre PRODUCTOS y CATEGORIAS:
+Un producto puede pertenecer a muchas categorías.
+Una categoría puede contener muchos productos.
